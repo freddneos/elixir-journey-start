@@ -12,11 +12,11 @@
 - [x] Basic types
 - [x] Basic operators
 - [x] Pattern matching
-- [ ] case, cond, and if
-- [ ] Binaries, strings, and charlists
-- [ ] Keyword lists and maps
-- [ ] Modules and Functions
-- [ ] Recursion
+- [x] case, cond, and if
+- [x] Binaries, strings, and charlists
+- [x] Keyword lists and maps
+- [x] Modules and Functions
+- [x] Recursion
 - [ ] Enumerables and streams
 - [ ] Processes
 - [ ] IO and the file system
